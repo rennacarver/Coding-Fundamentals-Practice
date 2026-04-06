@@ -1,0 +1,38 @@
+{
+  "high priority": [
+    {
+      "id": 1,
+      "title": "Submit project proposal",
+      "description": "Finish and submit the project proposal before the deadline."
+    },
+    {
+      "id": 2,
+      "title": "Fix login bug",
+      "description": "Resolve the authentication issue affecting user sign-in."
+    }
+  ],
+  "medium priority": [
+    {
+      "id": 3,
+      "title": "Refactor task service",
+      "description": "Clean up duplicated logic in the task service module."
+    },
+    {
+      "id": 4,
+      "title": "Add unit tests",
+      "description": "Write tests for task sorting and filtering functionality."
+    }
+  ],
+  "low priority": [
+    {
+      "id": 5,
+      "title": "Update documentation",
+      "description": "Improve the README with setup and usage examples."
+    },
+    {
+      "id": 6,
+      "title": "Polish UI spacing",
+      "description": "Adjust margins and padding for better visual consistency."
+    }
+  ]
+}
